@@ -5,5 +5,4 @@ Deploys an EC2 instance in a public subnet with configured route table for inter
 ## Tech Stack Used
 - Terraform
 - AWS
-- Docker 
 - Bash / Powershell
